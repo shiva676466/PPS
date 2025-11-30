@@ -46,4 +46,4 @@ Peak Hour Analysis: Identify busiest hours for staffing optimization
 
 Popular Items: Top 3 most ordered menu items tracking
 
-Order Frequency: Hourly order distribution analysis
+Order Frequency: Hourly order distribution analysis.
